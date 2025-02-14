@@ -16,7 +16,7 @@ This is a special Valentine's Day webpage designed to celebrate love and relatio
 ### 1. Change the Password (Anniversary Date)
 To change the password (which represents the anniversary date), follow these steps:
 
-1. Open the `v2.html` file in a text editor.
+1. Open the `index.html` file in a text editor.
 2. Locate the following line in the JavaScript section:
    ```javascript
    const correctPassword = "123456";
@@ -27,7 +27,7 @@ To change the password (which represents the anniversary date), follow these ste
 ### 2. Change the Countdown Start Date
 To change the start date for the countdown timer, follow these steps:
 
-1. Open the `v2.html` file in a text editor.
+1. Open the `index.html` file in a text editor.
 2. Locate the following line in the JavaScript section:
    ```javascript
    const startDate = new Date("2024-01-01T00:00:00").getTime();
@@ -38,7 +38,7 @@ To change the start date for the countdown timer, follow these steps:
 ### 3. Change the Gallery Images
 To change the images displayed in the gallery, follow these steps:
 
-1. Open the `v2.html` file in a text editor.
+1. Open the `index.html` file in a text editor.
 2. Locate the following array in the JavaScript section:
    ```javascript
    const images = [
@@ -63,7 +63,7 @@ To change the images displayed in the gallery, follow these steps:
 ### 4. Change the Final Text Message
 To change the final text message, follow these steps:
 
-1. Open the `v2.html` file in a text editor.
+1. Open the `index.html` file in a text editor.
 2. Locate the following section in the HTML:
    ```html
    <div class="final-message" id="finalMessage">
@@ -102,7 +102,7 @@ To change the final text message, follow these steps:
 ## How to Use
 
 1. Clone or download the repository.
-2. Open the `v2.html` file in a web browser.
+2. Open the `index.html` file in a web browser.
 3. Enter the correct anniversary date (password) to unlock the content.
 4. Enjoy the countdown timer, gallery, and final message.
 
