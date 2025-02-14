@@ -5,6 +5,7 @@ This is a special Valentine's Day webpage designed to celebrate love and relatio
 ## Demo
 
 You can view a live demo of this project here: [Valentine's Day Special Webpage Demo](https://xez0.github.io/Valentine/)
+**Default Password**: `123456`
 
 ## Features
 
