@@ -108,8 +108,8 @@ To change the final text message, follow these steps:
 
 ## Credits
 
-- **Creator**: [@xez0](https://github.com/xez0)
-- **Music**: Add your own music file (`musik.mp3`) or replace the `musik.mp3` file in the same directory as the `v2.html` file.
+- **Creator**: [@xez0](https://github.com/xez0)  
+- **Music**: You can add your own music file (`musik.mp3`) or replace the existing link (`https://cdn.whyp.it/4af0c660-9201-4088-9141-418eaec83ace.mp3`) in the `index.html` file.
 
 ## License
 
